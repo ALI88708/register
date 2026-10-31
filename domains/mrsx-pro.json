@@ -1,24 +1,12 @@
 {
-  "domain": "mrsx-pro.is-a.dev",
-  "description": "A personal website for MRSX PRO, LLC",
   "owner": {
     "username": "ALI88708",
-    "email": "mralizai2013@gmail.com",
-    "name": "MRSX PRO, LLC",
-    "display_name": "MRSX PRO"
+    "email": "mralizai2013@gmail.com"
   },
   "records": {
     "NS": [
       "ben.ns.cloudflare.com",
       "stephane.ns.cloudflare.com"
     ]
-  },
-  "status": "active",
-  "created_at": "2025-10-31T00:00:00Z",
-  "services": ["personal-website"],
-  "configuration": {
-    "ssl_enabled": true,
-    "cdn_enabled": true,
-    "custom_domain": true
   }
 }
