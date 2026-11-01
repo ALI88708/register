@@ -4,6 +4,9 @@
     "email": "mralizai2013@gmail.com"
   },
   "records": {
-    "NS": ["ben.ns.cloudflare.com", "stephane.ns.cloudflare.com"]
+    "NS": [
+      "ben.ns.cloudflare.com",
+      "stephane.ns.cloudflare.com"
+    ]
   }
 }
